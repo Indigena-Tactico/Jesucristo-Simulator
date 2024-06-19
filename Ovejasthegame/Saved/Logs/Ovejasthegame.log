@@ -5671,3 +5671,8 @@ Make sure 'BTT_MoveToPlayer_C' has been compiled for  Set As BP Oveja
 [2024.06.19-17.54.25:787][972]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
 [2024.06.19-17.54.25:787][972]LogModuleManager: Shutting down and abandoning module CookOnTheFly (4)
 [2024.06.19-17.54.25:787][972]LogModuleManager: Shutting down and abandoning module StorageServerClient (2)
+[2024.06.19-17.54.26:033][972]LogD3D12RHI: ~FD3D12DynamicRHI
+[2024.06.19-17.54.26:068][972]LogExit: Exiting.
+[2024.06.19-17.54.26:087][972]LogFileManager: Warning: DeleteFile was unable to delete 'D:/david/musica/trabajos/Diseñoo de Niveles/p3/Jesucristo-Simulator/Ovejasthegame/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini', retrying in .5s...
+[2024.06.19-17.54.26:588][972]LogFileManager: Warning: DeleteFile recovered during retry!
+[2024.06.19-17.54.27:340][972]Log file closed, 06/19/24 11:54:27
